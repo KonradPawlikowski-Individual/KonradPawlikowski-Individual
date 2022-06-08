@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonradPawlikowski-Individual
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science and Mathematics
+- 🌱 I’m currently learning Computer Science and Mathematics at the University of Edinburgh
 - 📫 How to reach me KonradPawlikowski1337@gmail.com
 
 <!---
